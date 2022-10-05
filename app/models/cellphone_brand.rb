@@ -1,0 +1,2 @@
+class CellphoneBrand < ApplicationRecord
+end
